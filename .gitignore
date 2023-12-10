@@ -1,1 +1,10 @@
 token.txt
+# Ignore compiled files
+*.exe
+*.out
+*.o
+*.obj
+
+# Ignore build/ and bin/ directories
+/build/
+/bin/
