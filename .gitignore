@@ -8,3 +8,9 @@ token.txt
 # Ignore build/ and bin/ directories
 /build/
 /bin/
+
+*.exe
+*.out
+*.o
+build/
+bin/
