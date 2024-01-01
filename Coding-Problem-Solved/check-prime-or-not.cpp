@@ -14,6 +14,7 @@ int main()
         {
             check = true;
         }
+        num = num / 10;
     }
 
     if (check == false)
