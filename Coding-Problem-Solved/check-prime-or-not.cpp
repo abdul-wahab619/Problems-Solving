@@ -13,12 +13,13 @@ int main()
         if (num % i == 0)
         {
             check = true;
+            break;
         }
         num = num / 10;
     }
 
     if (check == false)
-        cout << "Given number is a prime number." << endl;
+        cout << "Given number is a prime number " << num << endl;
     else
-        cout << "Given number is not a prime number." << endl;
+        cout << "Given number is not a prime number " << num << endl;
 }
