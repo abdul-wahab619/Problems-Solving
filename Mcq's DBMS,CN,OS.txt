@@ -1,0 +1,224 @@
+Operatig System
+Operating System
+Operating System
+user and computer 
+OS provides a layer user friendly 
+Open-Source OS
+Operating System
+PASCAL
+Utilities OPerating System Compiler
+Max length of DOS upto 8 characters
+.txt
+CUI Character User Interface
+GUI Graphical User Interface
+Virus Protection
+OPerating System
+Restarting System
+Cold Boot
+Warm Boot
+Operating System Computer Supervisor
+Application
+1950
+Windos MS 1985
+Windows no need command
+Is a GUI
+Linus Torvalds
+Batch OS
+MS-DOS 16-bit
+Performance monitor is not a part of OS
+Primary Job of OS is Manage Resorces
+Operating System:
+-> Collection of Programs that manages hardware resources
+-> Interface b/w the hardware and application programs
+-> System service provide to the application programs
+Software Routines
+Characteristics of OS:
+-> Resource Management
+-> Memory Management
+-> Error Recovery
+
+DOS
+DOS Single User OS (Disk OS)
+1984
+File System is supported by the window OS:
+-> NTFS (New Technology File System)
+-> exFAT 
+-> FAT32 (File Allocation Table)
+Switch B/w Applications in Windows OS: alt + tab
+Desktop OS os also called Client OS
+MS DOS (Multi-tasking not support)
+BIOS is used by OS
+Kali Linus is a OS use commands
+COW stands for copy overwrite 
+window 7 is not application software
+OS runs on the server is Network OS
+real-time applications support is Real-Time OS
+Page fault occur : the page is present in memory
+Fence register is used to memory protection
+Authentication
+External Command
+window 8
+window XP 64bit
+file management
+process control
+System call
+OS
+Windows
+GNU/Linux
+1,2 and 3
+BIOS: Basic Input/Output System
+DOS
+Safe Mode
+Open Source
+Both 1 and 2
+Dos
+Retart all the programs
+Execution of arithmetic operations
+Computer Network:
+ARPANET(Advance Research Project Agency Network)
+POP Post office Protocol
+POP port no.s 110
+OSI model 7 layers
+OSI (Open System Interconnection)
+Application Layer ( Service Provide)
+Hub is a Network device
+Web Server is to host Web Server
+Set of rules define Protocol
+HTTP Hyper Text Transfer protocol
+IP (Internel Protocol)
+2
+Internel is network
+None of above
+TCP/IP
+Transmission Control Protocol
+Session Layer
+prior to OSI
+all of the above
+www
+world wide web
+Url (Uniform Resource Locator)
+all of the above
+X.25 Protocol
+Peer to peer
+FTP file transfer protocol
+21 port FTP
+32bits
+128bits
+
+SMTP port no. 25
+MIME Multipurpose Internet Mail Extension
+143 post no. IMAP
+BPS Byte Per Second
+bps Bit per Second
+PAN blutooth Personal Area Network
+All of the above
+Intranet
+Gateway
+Modem Modulator Demodeulator
+Modem
+Repeater to boost up
+computer is node
+medial access control MAC 48 bits
+FM Frequency Modulator
+AM Amplitude Modulation
+NIC Network Interface card
+Wifi Wireless Fidelity
+Point to Point protocol
+Address Resolution Protocol
+WorkStation known as node
+
+DBMS:
+Database Managenment System
+stores modify and retrieve data
+Charles Bachman
+Google
+Relational DBMS
+Collection of tables
+collection of data arranged in columns
+All the above
+Table format
+oracle
+system software 
+data
+facts and figures
+Meta data
+It is non procedural language 
+relational algebra
+Analysis code
+data flow diagram
+A number of tuples
+rows
+domain
+Database Administrator
+TCL Transaction Control Language
+Open Data Base Conectivity
+Manipulation and processing
+UPDATE
+Data Definintion Language DROP CREATE TRUNCATE
+DCL GRANT REVOKE
+Foreign Key
+Design View
+one to many
+Query
+Parent 1-to-n
+Text
+Users
+Values -> Count
+Changed
+Tree
+Column Attribute
+Decentralized
+Single User Access 
+DROP table
+Delete from teaches
+more redundancy centralized manner to control of data
+All the above
+Transition
+STR()
+Direct Access
+Mutimedia database
+TCL Transaction Control language 
+-> COMMIT ROLLBACK SAVEPOINT
+DBMS PAKAGE
+STORE
+A record
+1024 bits 1k
+HTML Programming
+Data Entry
+Mouse
+Employee Address
+Processing
+Entity
+data dictionary
+All the these
+Database
+FAT File Allocation Table 4GB
+NTFS 4GB
+Data Mining
+Records
+Delete
+Commit save permanently
+Rollback restore
+primary key
+Table name unique
+data/time
+Relationships
+Metadata
+Modify
+Programming Language
+is the entire 
+Field all data
+All of the above
+View
+ODBC Open Database Connectivity
+
+
+
+
+
+
+
+
+
+
+
